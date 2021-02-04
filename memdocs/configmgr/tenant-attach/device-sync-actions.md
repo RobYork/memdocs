@@ -132,6 +132,9 @@ Using a previously created application during onboarding to tenant attach requir
 
 ## Display the Configuration Manager connector status from the admin console
  <!--IN9229333, CM7138634-->
+ 
+Applies to: Configuration Manager (current branch) version 2006 and later
+ 
 From the Microsoft Endpoint Manager admin center, you can review the status of your Configuration Manager connector. To display the connector status, go to **Tenant administration** > **Connectors and tokens** > **Microsoft Endpoint Configuration Manager**. Select a Configuration Manager hierarchy to display additional information about it.
    
 :::image type="content" source="media/7138634-connector-status.png" alt-text="Microsoft Endpoint Configuration Manager connector in the admin center" lightbox="media/7138634-connector-status.png":::
